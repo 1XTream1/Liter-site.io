@@ -37,17 +37,24 @@ h2{
     padding-right: 12em;
 }
 
-#13r {
-    font-size: 180%;
-}
+
 
 #lft1 {
     padding-left: 5em;
     padding-right: 5em;
     font-size: 150%;
     color: #5f5f77;
+    
+}
+
+#lft4 {
+    padding-left: 5em;
+    padding-right: 5em;
+    font-size: 150%;
+    color: #5f5f77;
     text-align: center;
 }
+
 #lft2 {
   background-color:#F3F0E7;
 }
